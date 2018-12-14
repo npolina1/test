@@ -1,3 +1,1 @@
-Hello Naresh, I am from jenkins
-
-_______________++++++++++++++++__________________
+echo "Hello Naresh from Jenkins slave-2"
